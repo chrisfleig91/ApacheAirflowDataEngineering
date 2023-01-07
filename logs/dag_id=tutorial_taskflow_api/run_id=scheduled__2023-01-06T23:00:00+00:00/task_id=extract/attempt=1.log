@@ -1,0 +1,24 @@
+[2023-01-07T01:00:23.050+0100] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: tutorial_taskflow_api.extract scheduled__2023-01-06T23:00:00+00:00 [queued]>
+[2023-01-07T01:00:23.063+0100] {taskinstance.py:1087} INFO - Dependencies all met for <TaskInstance: tutorial_taskflow_api.extract scheduled__2023-01-06T23:00:00+00:00 [queued]>
+[2023-01-07T01:00:23.064+0100] {taskinstance.py:1283} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-07T01:00:23.064+0100] {taskinstance.py:1284} INFO - Starting attempt 1 of 1
+[2023-01-07T01:00:23.064+0100] {taskinstance.py:1285} INFO - 
+--------------------------------------------------------------------------------
+[2023-01-07T01:00:23.100+0100] {taskinstance.py:1304} INFO - Executing <Task(_PythonDecoratedOperator): extract> on 2023-01-06 23:00:00+00:00
+[2023-01-07T01:00:23.103+0100] {standard_task_runner.py:55} INFO - Started process 10923 to run task
+[2023-01-07T01:00:23.109+0100] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'tutorial_taskflow_api', 'extract', 'scheduled__2023-01-06T23:00:00+00:00', '--job-id', '63', '--raw', '--subdir', 'DAGS_FOLDER/tutorial_taskflow_api.py', '--cfg-path', '/tmp/tmptg3e734h']
+[2023-01-07T01:00:23.111+0100] {standard_task_runner.py:83} INFO - Job 63: Subtask extract
+[2023-01-07T01:00:23.187+0100] {task_command.py:389} INFO - Running <TaskInstance: tutorial_taskflow_api.extract scheduled__2023-01-06T23:00:00+00:00 [running]> on host CFL-HP-360.
+[2023-01-07T01:00:23.319+0100] {taskinstance.py:1511} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=tutorial_taskflow_api
+AIRFLOW_CTX_TASK_ID=extract
+AIRFLOW_CTX_EXECUTION_DATE=2023-01-06T23:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-01-06T23:00:00+00:00
+[2023-01-07T01:00:23.320+0100] {tutorial_taskflow_api.py:39} INFO - i am in extract
+[2023-01-07T01:00:23.320+0100] {python.py:177} INFO - Done. Returned value was: {'1001': 301.27, '1002': 433.21, '1003': 502.22}
+[2023-01-07T01:00:23.349+0100] {taskinstance.py:1322} INFO - Marking task as SUCCESS. dag_id=tutorial_taskflow_api, task_id=extract, execution_date=20230106T230000, start_date=20230107T000023, end_date=20230107T000023
+[2023-01-07T01:00:23.402+0100] {local_task_job.py:159} INFO - Task exited with return code 0
+[2023-01-07T01:00:23.426+0100] {taskinstance.py:2582} INFO - 1 downstream tasks scheduled from follow-on schedule check

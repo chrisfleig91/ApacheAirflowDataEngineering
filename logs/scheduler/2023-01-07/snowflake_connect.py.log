@@ -1,0 +1,707 @@
+[2023-01-07T01:00:18.405+0100] {processor.py:153} INFO - Started process (PID=10918) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:00:18.408+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:00:18.409+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:00:18.409+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:00:19.395+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:00:19.460+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:00:19.459+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:00:19.536+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:00:19.536+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:00:19.633+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 1.238 seconds
+[2023-01-07T01:01:05.356+0100] {processor.py:153} INFO - Started process (PID=10963) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:01:05.358+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:01:05.359+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:01:05.359+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:01:05.672+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:01:05.687+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:01:05.687+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:01:05.703+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:01:05.703+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:01:05.741+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.388 seconds
+[2023-01-07T01:01:40.627+0100] {processor.py:153} INFO - Started process (PID=10997) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:01:40.629+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:01:40.630+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:01:40.629+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:01:40.952+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:01:40.968+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:01:40.968+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:01:40.983+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:01:40.983+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:01:41.039+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.424 seconds
+[2023-01-07T01:02:17.546+0100] {processor.py:153} INFO - Started process (PID=11032) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:02:17.548+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:02:17.548+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:02:17.548+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:02:17.826+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:02:17.843+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:02:17.843+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:02:17.859+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:02:17.859+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:02:17.895+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.353 seconds
+[2023-01-07T01:02:54.122+0100] {processor.py:153} INFO - Started process (PID=11065) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:02:54.123+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:02:54.124+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:02:54.124+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:02:54.416+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:02:54.436+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:02:54.436+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:02:54.453+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:02:54.453+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:02:54.488+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.369 seconds
+[2023-01-07T01:03:31.207+0100] {processor.py:153} INFO - Started process (PID=11100) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:03:31.209+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:03:31.210+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:03:31.210+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:03:31.479+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:03:31.495+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:03:31.495+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:03:31.512+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:03:31.512+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:03:31.556+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.353 seconds
+[2023-01-07T01:04:10.630+0100] {processor.py:153} INFO - Started process (PID=11135) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:04:10.631+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:04:10.631+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:04:10.631+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:04:10.893+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:04:10.908+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:04:10.907+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:04:10.922+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:04:10.922+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:04:10.957+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.330 seconds
+[2023-01-07T01:04:49.281+0100] {processor.py:153} INFO - Started process (PID=11172) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:04:49.282+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:04:49.283+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:04:49.283+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:04:49.553+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:04:49.569+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:04:49.569+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:04:49.585+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:04:49.585+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:04:49.628+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.349 seconds
+[2023-01-07T01:05:32.810+0100] {processor.py:153} INFO - Started process (PID=11215) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:05:32.811+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:05:32.812+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:05:32.812+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:05:33.099+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:05:33.116+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:05:33.116+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:05:33.133+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:05:33.133+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:05:33.169+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.364 seconds
+[2023-01-07T01:06:08.364+0100] {processor.py:153} INFO - Started process (PID=11249) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:06:08.365+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:06:08.366+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:06:08.366+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:06:09.125+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:06:09.177+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:06:09.177+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:06:09.251+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:06:09.251+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:06:09.479+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 1.117 seconds
+[2023-01-07T01:06:43.086+0100] {processor.py:153} INFO - Started process (PID=11283) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:06:43.090+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:06:43.093+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:06:43.092+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:06:43.544+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:06:43.562+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:06:43.562+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:06:43.580+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:06:43.580+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:06:43.621+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.549 seconds
+[2023-01-07T01:07:15.764+0100] {processor.py:153} INFO - Started process (PID=11315) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:07:15.766+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:07:15.768+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:07:15.767+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:07:16.047+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:07:16.064+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:07:16.064+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:07:16.079+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:07:16.079+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:07:16.131+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.372 seconds
+[2023-01-07T01:07:52.793+0100] {processor.py:153} INFO - Started process (PID=11348) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:07:52.798+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:07:52.799+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:07:52.799+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:07:53.138+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:07:53.156+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:07:53.156+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:07:53.172+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:07:53.172+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:07:53.211+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.423 seconds
+[2023-01-07T01:08:39.310+0100] {processor.py:153} INFO - Started process (PID=11387) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:08:39.312+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:08:39.312+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:08:39.312+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:08:39.577+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:08:39.593+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:08:39.593+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:08:39.608+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:08:39.608+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:08:39.644+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.338 seconds
+[2023-01-07T01:09:18.608+0100] {processor.py:153} INFO - Started process (PID=11428) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:09:18.609+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:09:18.610+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:09:18.610+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:09:18.884+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:09:18.900+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:09:18.899+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:09:18.914+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:09:18.914+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:09:18.949+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.344 seconds
+[2023-01-07T01:10:05.247+0100] {processor.py:153} INFO - Started process (PID=11469) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:10:05.248+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:10:05.249+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:10:05.249+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:10:05.586+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:10:05.610+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:10:05.609+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:10:05.637+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:10:05.637+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:10:05.685+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.440 seconds
+[2023-01-07T01:10:45.065+0100] {processor.py:153} INFO - Started process (PID=11507) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:10:45.067+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:10:45.067+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:10:45.067+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:10:45.362+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:10:45.384+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:10:45.384+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:10:45.447+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:10:45.447+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:10:45.492+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.431 seconds
+[2023-01-07T01:11:26.565+0100] {processor.py:153} INFO - Started process (PID=11545) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:11:26.567+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:11:26.568+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:11:26.567+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:11:26.977+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:11:26.994+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:11:26.994+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:11:27.009+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:11:27.009+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:11:27.045+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.488 seconds
+[2023-01-07T01:12:04.275+0100] {processor.py:153} INFO - Started process (PID=11581) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:12:04.276+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:12:04.277+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:12:04.276+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:12:04.546+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:12:04.563+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:12:04.562+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:12:04.579+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:12:04.579+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:12:04.615+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.343 seconds
+[2023-01-07T01:12:46.501+0100] {processor.py:153} INFO - Started process (PID=11621) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:12:46.502+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:12:46.503+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:12:46.502+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:12:46.780+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:12:46.798+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:12:46.798+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:12:46.817+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:12:46.817+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:12:46.851+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.353 seconds
+[2023-01-07T01:13:27.526+0100] {processor.py:153} INFO - Started process (PID=11666) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:13:27.528+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:13:27.528+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:13:27.528+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:13:27.807+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:13:27.822+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:13:27.822+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:13:27.838+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:13:27.838+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:13:27.873+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.349 seconds
+[2023-01-07T01:14:15.791+0100] {processor.py:153} INFO - Started process (PID=11707) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:14:15.793+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:14:15.794+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:14:15.794+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:14:16.341+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:14:16.374+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:14:16.374+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:14:16.396+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:14:16.396+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:14:16.439+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.654 seconds
+[2023-01-07T01:15:03.754+0100] {processor.py:153} INFO - Started process (PID=11748) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:15:03.754+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:15:03.755+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:15:03.755+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:15:04.030+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:15:04.046+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:15:04.046+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:15:04.062+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:15:04.062+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:15:04.100+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.350 seconds
+[2023-01-07T01:15:43.601+0100] {processor.py:153} INFO - Started process (PID=11788) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:15:43.602+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:15:43.603+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:15:43.603+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:15:44.054+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:15:44.070+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:15:44.070+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:15:44.086+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:15:44.086+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:15:44.121+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.524 seconds
+[2023-01-07T01:16:23.414+0100] {processor.py:153} INFO - Started process (PID=11830) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:16:23.415+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:16:23.416+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:16:23.416+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:16:23.739+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:16:23.760+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:16:23.760+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:16:23.777+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:16:23.777+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:16:23.815+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.408 seconds
+[2023-01-07T01:17:06.730+0100] {processor.py:153} INFO - Started process (PID=11876) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:17:06.732+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:17:06.733+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:17:06.732+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:17:07.024+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:17:07.043+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:17:07.042+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:17:07.057+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:17:07.057+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:17:07.096+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.370 seconds
+[2023-01-07T01:17:49.110+0100] {processor.py:153} INFO - Started process (PID=11914) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:17:49.113+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:17:49.114+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:17:49.114+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:17:49.528+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:17:49.567+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:17:49.567+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:17:49.613+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:17:49.613+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:17:49.699+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.595 seconds
+[2023-01-07T01:18:38.942+0100] {processor.py:153} INFO - Started process (PID=11956) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:18:38.944+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:18:38.945+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:18:38.945+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:18:39.208+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:18:39.227+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:18:39.227+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:18:39.242+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:18:39.241+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:18:39.285+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.347 seconds
+[2023-01-07T01:19:30.364+0100] {processor.py:153} INFO - Started process (PID=11997) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:19:30.365+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:19:30.366+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:19:30.366+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:19:30.640+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:19:30.657+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:19:30.657+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:19:30.672+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:19:30.672+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:19:30.709+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.348 seconds
+[2023-01-07T01:20:21.960+0100] {processor.py:153} INFO - Started process (PID=12041) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:20:21.961+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:20:21.962+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:20:21.962+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:20:22.221+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:20:22.237+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:20:22.237+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:20:22.253+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:20:22.253+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:20:22.296+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.338 seconds
+[2023-01-07T01:21:00.205+0100] {processor.py:153} INFO - Started process (PID=12081) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:21:00.207+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:21:00.207+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:21:00.207+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:21:00.484+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:21:00.501+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:21:00.501+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:21:00.518+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:21:00.518+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:21:00.559+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.358 seconds
+[2023-01-07T01:21:38.342+0100] {processor.py:153} INFO - Started process (PID=12118) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:21:38.344+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:21:38.345+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:21:38.344+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:21:38.640+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:21:38.664+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:21:38.664+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:21:38.692+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:21:38.692+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:21:38.731+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.393 seconds
+[2023-01-07T01:22:17.959+0100] {processor.py:153} INFO - Started process (PID=12155) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:22:17.963+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:22:17.965+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:22:17.965+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:22:18.376+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:22:18.393+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:22:18.392+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:22:18.409+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:22:18.408+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:22:18.441+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.486 seconds
+[2023-01-07T01:23:02.477+0100] {processor.py:153} INFO - Started process (PID=12195) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:23:02.480+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:23:02.481+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:23:02.480+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:23:02.879+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:23:02.896+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:23:02.896+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:23:02.911+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:23:02.911+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:23:02.947+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.478 seconds
+[2023-01-07T01:23:43.653+0100] {processor.py:153} INFO - Started process (PID=12234) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:23:43.654+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:23:43.655+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:23:43.654+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:23:43.967+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:23:43.983+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:23:43.983+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:23:43.999+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:23:43.999+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:23:44.042+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.393 seconds
+[2023-01-07T01:24:26.249+0100] {processor.py:153} INFO - Started process (PID=12273) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:24:26.250+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:24:26.251+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:24:26.251+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:24:26.518+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:24:26.534+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:24:26.533+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:24:26.552+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:24:26.552+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:24:26.585+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.340 seconds
+[2023-01-07T01:25:11.586+0100] {processor.py:153} INFO - Started process (PID=12312) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:25:11.588+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:25:11.589+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:25:11.589+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:25:11.856+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:25:11.871+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:25:11.871+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:25:11.887+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:25:11.887+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:25:11.921+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.339 seconds
+[2023-01-07T01:25:55.147+0100] {processor.py:153} INFO - Started process (PID=12353) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:25:55.149+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:25:55.151+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:25:55.150+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:25:55.485+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:25:55.507+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:25:55.507+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:25:55.531+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:25:55.531+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:25:55.576+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.432 seconds
+[2023-01-07T01:26:36.187+0100] {processor.py:153} INFO - Started process (PID=12392) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:26:36.191+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:26:36.193+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:26:36.192+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:26:36.504+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:26:36.522+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:26:36.522+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:26:36.537+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:26:36.537+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:26:36.569+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.393 seconds
+[2023-01-07T01:27:18.085+0100] {processor.py:153} INFO - Started process (PID=12430) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:27:18.087+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:27:18.088+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:27:18.087+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:27:18.416+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:27:18.434+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:27:18.433+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:27:18.448+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:27:18.448+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:27:18.486+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.404 seconds
+[2023-01-07T01:27:58.968+0100] {processor.py:153} INFO - Started process (PID=12469) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:27:58.969+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:27:58.970+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:27:58.970+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:27:59.268+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:27:59.330+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:27:59.329+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:27:59.411+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:27:59.411+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:27:59.499+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.535 seconds
+[2023-01-07T01:28:43.172+0100] {processor.py:153} INFO - Started process (PID=12510) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:28:43.174+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:28:43.175+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:28:43.175+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:28:43.472+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:28:43.488+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:28:43.488+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:28:43.502+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:28:43.502+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:28:43.537+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.370 seconds
+[2023-01-07T01:29:25.925+0100] {processor.py:153} INFO - Started process (PID=12655) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:29:25.927+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:29:25.927+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:29:25.927+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:29:26.190+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:29:26.206+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:29:26.206+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:29:26.222+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:29:26.222+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:29:26.255+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.333 seconds
+[2023-01-07T01:30:07.994+0100] {processor.py:153} INFO - Started process (PID=12705) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:30:07.996+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:30:07.996+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:30:07.996+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:30:08.312+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:30:08.337+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:30:08.337+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:30:08.357+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:30:08.356+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:30:08.399+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.408 seconds
+[2023-01-07T01:30:47.394+0100] {processor.py:153} INFO - Started process (PID=12743) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:30:47.395+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:30:47.396+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:30:47.396+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:30:47.667+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:30:47.684+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:30:47.684+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:30:47.699+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:30:47.699+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:30:47.736+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.345 seconds
+[2023-01-07T01:31:24.277+0100] {processor.py:153} INFO - Started process (PID=12778) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:31:24.279+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:31:24.280+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:31:24.280+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:31:24.560+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:31:24.577+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:31:24.577+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:31:24.592+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:31:24.592+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:31:24.652+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.378 seconds
+[2023-01-07T01:32:05.162+0100] {processor.py:153} INFO - Started process (PID=12816) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:32:05.164+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:32:05.165+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:32:05.164+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:32:05.563+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:32:05.580+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:32:05.580+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:32:05.595+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:32:05.595+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:32:05.636+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.479 seconds
+[2023-01-07T01:32:44.508+0100] {processor.py:153} INFO - Started process (PID=12852) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:32:44.509+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:32:44.510+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:32:44.510+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:32:44.822+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:32:44.840+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:32:44.840+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:32:44.857+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:32:44.856+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:32:44.889+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.385 seconds
+[2023-01-07T01:33:27.471+0100] {processor.py:153} INFO - Started process (PID=12891) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:33:27.473+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:33:27.473+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:33:27.473+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:33:27.776+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:33:27.797+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:33:27.796+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:33:27.816+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:33:27.816+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:33:27.858+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.391 seconds
+[2023-01-07T01:34:23.197+0100] {processor.py:153} INFO - Started process (PID=12934) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:34:23.201+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:34:23.202+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:34:23.202+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:34:24.591+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:34:24.715+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:34:24.704+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:34:24.899+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:34:24.898+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:34:25.236+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 2.047 seconds
+[2023-01-07T01:34:56.772+0100] {processor.py:153} INFO - Started process (PID=12961) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:34:56.774+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:34:56.776+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:34:56.776+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:34:57.294+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:34:57.338+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:34:57.338+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:34:57.357+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:34:57.357+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:34:57.500+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.734 seconds
+[2023-01-07T01:35:44.634+0100] {processor.py:153} INFO - Started process (PID=13005) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:35:44.635+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:35:44.636+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:35:44.636+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:35:44.941+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:35:44.958+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:35:44.958+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:35:44.979+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:35:44.978+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:35:45.035+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.404 seconds
+[2023-01-07T01:36:28.221+0100] {processor.py:153} INFO - Started process (PID=13045) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:36:28.222+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:36:28.223+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:36:28.223+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:36:28.488+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:36:28.503+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:36:28.503+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:36:28.519+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:36:28.519+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:36:28.556+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.338 seconds
+[2023-01-07T01:37:06.208+0100] {processor.py:153} INFO - Started process (PID=13081) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:37:06.209+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:37:06.212+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:37:06.211+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:37:06.490+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:37:06.509+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:37:06.509+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:37:06.526+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:37:06.526+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:37:06.564+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.360 seconds
+[2023-01-07T01:37:44.407+0100] {processor.py:153} INFO - Started process (PID=13117) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:37:44.409+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:37:44.409+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:37:44.409+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:37:44.714+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:37:44.731+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:37:44.731+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:37:44.749+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:37:44.749+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:37:44.791+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.387 seconds
+[2023-01-07T01:38:24.525+0100] {processor.py:153} INFO - Started process (PID=13154) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:38:24.526+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:38:24.527+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:38:24.527+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:38:24.818+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:38:24.834+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:38:24.834+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:38:24.849+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:38:24.849+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:38:24.892+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.371 seconds
+[2023-01-07T01:39:07.173+0100] {processor.py:153} INFO - Started process (PID=13193) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:39:07.174+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:39:07.175+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:39:07.175+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:39:07.619+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:39:07.645+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:39:07.645+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:39:07.673+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:39:07.673+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:39:07.728+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.558 seconds
+[2023-01-07T01:39:55.167+0100] {processor.py:153} INFO - Started process (PID=13233) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:39:55.168+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:39:55.169+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:39:55.169+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:39:55.532+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:39:55.567+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:39:55.567+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:39:55.643+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:39:55.643+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:39:55.707+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.543 seconds
+[2023-01-07T01:40:43.723+0100] {processor.py:153} INFO - Started process (PID=13276) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:40:43.724+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:40:43.725+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:40:43.725+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:40:43.994+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:40:44.012+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:40:44.012+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:40:44.027+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:40:44.027+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:40:44.062+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.341 seconds
+[2023-01-07T01:41:31.246+0100] {processor.py:153} INFO - Started process (PID=13318) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:41:31.247+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:41:31.247+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:41:31.247+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:41:31.676+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:41:31.709+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:41:31.709+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:41:31.741+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:41:31.741+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:41:31.803+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.560 seconds
+[2023-01-07T01:42:25.048+0100] {processor.py:153} INFO - Started process (PID=13363) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:42:25.049+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:42:25.049+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:42:25.049+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:42:25.309+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:42:25.325+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:42:25.325+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:42:25.341+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:42:25.341+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:42:25.384+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.339 seconds
+[2023-01-07T01:43:17.345+0100] {processor.py:153} INFO - Started process (PID=13408) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:43:17.346+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:43:17.347+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:43:17.347+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:43:17.605+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:43:17.621+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:43:17.621+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:43:17.636+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:43:17.636+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:43:17.673+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.331 seconds
+[2023-01-07T01:44:03.917+0100] {processor.py:153} INFO - Started process (PID=13448) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:44:03.920+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:44:03.921+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:44:03.921+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:44:04.603+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:44:04.621+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:44:04.621+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:44:04.648+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:44:04.648+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:44:04.682+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.777 seconds
+[2023-01-07T01:44:48.231+0100] {processor.py:153} INFO - Started process (PID=13488) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:44:48.233+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:44:48.233+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:44:48.233+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:44:48.494+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:44:48.510+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:44:48.509+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:44:48.524+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:44:48.524+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:44:48.561+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.333 seconds
+[2023-01-07T01:45:31.691+0100] {processor.py:153} INFO - Started process (PID=13526) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:45:31.693+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:45:31.693+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:45:31.693+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:45:31.985+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:45:32.003+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:45:32.002+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:45:32.019+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:45:32.019+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:45:32.053+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.367 seconds
+[2023-01-07T01:46:19.223+0100] {processor.py:153} INFO - Started process (PID=13568) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:46:19.224+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:46:19.225+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:46:19.225+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:46:19.496+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:46:19.512+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:46:19.512+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:46:19.527+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:46:19.526+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:46:19.564+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.345 seconds
+[2023-01-07T01:46:59.910+0100] {processor.py:153} INFO - Started process (PID=13605) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:46:59.920+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:46:59.923+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:46:59.922+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:47:00.368+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:47:00.387+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:47:00.387+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:47:00.407+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:47:00.407+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:47:00.444+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.541 seconds
+[2023-01-07T01:47:38.591+0100] {processor.py:153} INFO - Started process (PID=13643) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:47:38.592+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:47:38.594+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:47:38.594+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:47:39.061+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:47:39.082+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:47:39.082+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:47:39.105+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:47:39.104+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:47:39.144+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.556 seconds
+[2023-01-07T01:48:17.306+0100] {processor.py:153} INFO - Started process (PID=13680) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:48:17.307+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:48:17.309+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:48:17.308+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:48:17.617+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:48:17.636+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:48:17.636+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:48:17.656+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:48:17.656+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:48:17.700+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.399 seconds
+[2023-01-07T01:49:04.136+0100] {processor.py:153} INFO - Started process (PID=13720) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:49:04.137+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:49:04.138+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:49:04.138+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:49:04.467+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:49:04.485+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:49:04.485+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:49:04.501+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:49:04.501+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:49:04.540+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.406 seconds
+[2023-01-07T01:50:03.402+0100] {processor.py:153} INFO - Started process (PID=13768) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:50:03.403+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:50:03.404+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:50:03.404+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:50:03.671+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:50:03.687+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:50:03.687+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:50:03.704+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:50:03.704+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:50:03.755+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.357 seconds
+[2023-01-07T01:50:52.175+0100] {processor.py:153} INFO - Started process (PID=13809) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:50:52.176+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:50:52.177+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:50:52.177+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:50:52.501+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:50:52.520+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:50:52.520+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:50:52.544+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:50:52.544+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:50:52.581+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.410 seconds
+[2023-01-07T01:51:26.078+0100] {processor.py:153} INFO - Started process (PID=13838) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:51:26.079+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:51:26.080+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:51:26.080+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:51:26.462+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:51:26.487+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:51:26.486+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:51:26.513+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:51:26.513+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:51:26.562+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.487 seconds
+[2023-01-07T01:51:58.572+0100] {processor.py:153} INFO - Started process (PID=13865) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:51:58.574+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:51:58.575+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:51:58.575+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:51:59.222+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:51:59.249+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:51:59.249+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:51:59.267+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:51:59.267+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:51:59.302+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.734 seconds
+[2023-01-07T01:52:45.698+0100] {processor.py:153} INFO - Started process (PID=13907) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:52:45.699+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:52:45.700+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:52:45.700+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:52:45.986+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:52:46.002+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:52:46.002+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:52:46.017+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:52:46.017+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:52:46.055+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.361 seconds
+[2023-01-07T01:53:22.950+0100] {processor.py:153} INFO - Started process (PID=13944) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:53:22.951+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:53:22.951+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:53:22.951+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:53:23.244+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:53:23.264+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:53:23.264+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:53:23.281+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:53:23.281+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:53:23.324+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.377 seconds
+[2023-01-07T01:54:01.974+0100] {processor.py:153} INFO - Started process (PID=13980) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:54:01.981+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:54:01.982+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:54:01.982+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:54:02.393+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:54:02.413+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:54:02.413+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:54:02.431+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:54:02.431+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:54:02.468+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.502 seconds
+[2023-01-07T01:54:43.612+0100] {processor.py:153} INFO - Started process (PID=14021) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:54:43.614+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:54:43.615+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:54:43.615+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:54:43.886+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:54:43.904+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:54:43.904+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:54:43.918+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:54:43.918+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:54:43.964+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.355 seconds
+[2023-01-07T01:55:27.469+0100] {processor.py:153} INFO - Started process (PID=14059) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:55:27.470+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:55:27.471+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:55:27.471+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:55:28.041+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:55:28.072+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:55:28.072+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:55:28.095+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:55:28.095+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:55:28.176+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.711 seconds
+[2023-01-07T01:56:10.857+0100] {processor.py:153} INFO - Started process (PID=14100) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:56:10.859+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:56:10.859+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:56:10.859+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:56:11.128+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:56:11.145+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:56:11.145+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:56:11.163+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:56:11.163+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:56:11.197+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.343 seconds
+[2023-01-07T01:56:50.010+0100] {processor.py:153} INFO - Started process (PID=14139) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:56:50.011+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:56:50.012+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:56:50.012+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:56:50.313+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:56:50.330+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:56:50.330+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:56:50.353+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:56:50.352+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:56:50.387+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.380 seconds
+[2023-01-07T01:57:49.336+0100] {processor.py:153} INFO - Started process (PID=14183) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:57:49.338+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:57:49.339+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:57:49.339+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:57:49.641+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:57:49.658+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:57:49.658+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:57:49.673+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:57:49.673+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:57:49.731+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.399 seconds
+[2023-01-07T01:58:37.450+0100] {processor.py:153} INFO - Started process (PID=14223) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:58:37.451+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:58:37.452+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:58:37.452+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:58:37.860+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:58:37.946+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:58:37.946+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:58:38.084+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:58:38.084+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:58:38.173+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.726 seconds
+[2023-01-07T01:59:23.805+0100] {processor.py:153} INFO - Started process (PID=14265) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:59:23.806+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T01:59:23.807+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:59:23.807+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:59:24.086+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T01:59:24.103+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:59:24.103+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T01:59:24.119+0100] {logging_mixin.py:137} INFO - [2023-01-07T01:59:24.118+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T01:59:24.159+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.357 seconds
+[2023-01-07T02:00:04.216+0100] {processor.py:153} INFO - Started process (PID=14305) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:00:04.217+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:00:04.218+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:00:04.218+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:00:04.565+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:00:04.582+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:00:04.582+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:00:04.599+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:00:04.599+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:00:04.640+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.429 seconds
+[2023-01-07T02:00:59.732+0100] {processor.py:153} INFO - Started process (PID=14358) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:00:59.734+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:00:59.735+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:00:59.735+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:01:00.018+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:01:00.036+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:01:00.036+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:01:00.053+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:01:00.053+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:01:00.101+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.372 seconds
+[2023-01-07T02:01:39.435+0100] {processor.py:153} INFO - Started process (PID=14394) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:01:39.437+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:01:39.437+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:01:39.437+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:01:39.794+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:01:39.850+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:01:39.850+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:01:39.882+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:01:39.882+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:01:39.936+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.504 seconds
+[2023-01-07T02:02:26.024+0100] {processor.py:153} INFO - Started process (PID=14435) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:02:26.025+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:02:26.026+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:02:26.026+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:02:26.298+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:02:26.313+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:02:26.313+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:02:26.329+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:02:26.329+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:02:26.368+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.348 seconds
+[2023-01-07T02:03:13.251+0100] {processor.py:153} INFO - Started process (PID=14475) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:03:13.252+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:03:13.252+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:03:13.252+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:03:13.522+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:03:13.539+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:03:13.539+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:03:13.555+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:03:13.555+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:03:13.590+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.342 seconds
+[2023-01-07T02:03:57.527+0100] {processor.py:153} INFO - Started process (PID=14517) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:03:57.528+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:03:57.529+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:03:57.529+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:03:57.791+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:03:57.808+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:03:57.807+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:03:57.822+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:03:57.822+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:03:57.859+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.335 seconds
+[2023-01-07T02:04:36.721+0100] {processor.py:153} INFO - Started process (PID=14554) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:04:36.722+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:04:36.725+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:04:36.724+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:04:37.072+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:04:37.092+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:04:37.092+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:04:37.111+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:04:37.111+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:04:37.148+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.432 seconds
+[2023-01-07T02:05:21.239+0100] {processor.py:153} INFO - Started process (PID=14592) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:05:21.240+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:05:21.240+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:05:21.240+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:05:21.520+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:05:21.536+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:05:21.536+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:05:21.551+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:05:21.550+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:05:21.586+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.350 seconds
+[2023-01-07T02:05:58.116+0100] {processor.py:153} INFO - Started process (PID=14626) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:05:58.117+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:05:58.118+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:05:58.117+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:05:58.553+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:05:58.580+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:05:58.580+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:05:58.601+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:05:58.601+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:05:58.647+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.534 seconds
+[2023-01-07T02:06:36.129+0100] {processor.py:153} INFO - Started process (PID=14657) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:06:36.130+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:06:36.131+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:06:36.131+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:06:36.435+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:06:36.451+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:06:36.451+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:06:36.466+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:06:36.466+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:06:36.501+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.376 seconds
+[2023-01-07T02:07:25.989+0100] {processor.py:153} INFO - Started process (PID=14699) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:07:26.002+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:07:26.002+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:07:26.002+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:07:26.319+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:07:26.340+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:07:26.340+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:07:26.359+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:07:26.359+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:07:26.400+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.413 seconds
+[2023-01-07T02:08:18.090+0100] {processor.py:153} INFO - Started process (PID=14742) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:08:18.094+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:08:18.095+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:08:18.095+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:08:18.441+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:08:18.463+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:08:18.463+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:08:18.480+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:08:18.480+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:08:18.516+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.432 seconds
+[2023-01-07T02:09:15.428+0100] {processor.py:153} INFO - Started process (PID=14789) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:09:15.430+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:09:15.430+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:09:15.430+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:09:15.730+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:09:15.746+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:09:15.746+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:09:15.763+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:09:15.763+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:09:15.803+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.380 seconds
+[2023-01-07T02:10:00.620+0100] {processor.py:153} INFO - Started process (PID=14830) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:10:00.622+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:10:00.622+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:10:00.622+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:10:01.181+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:10:01.204+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:10:01.204+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:10:01.226+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:10:01.226+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:10:01.261+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.647 seconds
+[2023-01-07T02:10:46.596+0100] {processor.py:153} INFO - Started process (PID=14870) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:10:46.598+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:10:46.602+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:10:46.602+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:10:47.367+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:10:47.406+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:10:47.405+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:10:47.435+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:10:47.435+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:10:47.494+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.905 seconds
+[2023-01-07T02:11:31.283+0100] {processor.py:153} INFO - Started process (PID=14913) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:11:31.284+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:11:31.285+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:11:31.284+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:11:31.604+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:11:31.622+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:11:31.622+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:11:31.639+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:11:31.639+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:11:31.677+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.397 seconds
+[2023-01-07T02:12:16.859+0100] {processor.py:153} INFO - Started process (PID=14952) to work on /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:12:16.860+0100] {processor.py:743} INFO - Processing file /home/chrisfleig/airflow/example_dags/snowflake_connect.py for tasks to queue
+[2023-01-07T02:12:16.861+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:12:16.861+0100] {dagbag.py:538} INFO - Filling up the DagBag from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:12:17.138+0100] {processor.py:753} INFO - DAG(s) dict_keys(['snowflake_connect']) retrieved from /home/chrisfleig/airflow/example_dags/snowflake_connect.py
+[2023-01-07T02:12:17.154+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:12:17.154+0100] {dag.py:2676} INFO - Sync 1 DAGs
+[2023-01-07T02:12:17.169+0100] {logging_mixin.py:137} INFO - [2023-01-07T02:12:17.169+0100] {dag.py:3423} INFO - Setting next_dagrun for snowflake_connect to 2021-03-22T18:00:00+00:00, run_after=2021-03-22T19:00:00+00:00
+[2023-01-07T02:12:17.210+0100] {processor.py:175} INFO - Processing /home/chrisfleig/airflow/example_dags/snowflake_connect.py took 0.354 seconds
