@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*/__pycache__/*
 
 # C extensions
 *.so
@@ -26,6 +27,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+logs/
+./logs/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -127,3 +130,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#airflow:
+airflow.db
+airflow.db-journal
